@@ -14,4 +14,4 @@ python main.py
 
 and if you want to run in background:
 
-Start-Process python -ArgumentList "main.py" -NoNewWindo  w
+Start-Process python -ArgumentList "main.py" -NoNewWindow
