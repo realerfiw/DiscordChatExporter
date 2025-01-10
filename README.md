@@ -1,17 +1,8 @@
-# Requirements
+# Project Overview
 
-First execute the below command and install the requirements.
+This project is a Discord Bot designed to export the message history of a Discord channel into an HTML file and send it to a Telegram chat. It is particularly useful for Discord server administrators who want to back up or share the message history of specific channels.
 
-pip install -r requirements.txt
+# Prerequisites
 
-Create a bot in Telegram and Discord because you will need the token.
+1. Python 3.8 or higher installed on your system.
 
-# How to run
-
-If you want to run normally execute this:
-
-python main.py
-
-and if you want to run in background:
-
-Start-Process python -ArgumentList "main.py" -NoNewWindow
